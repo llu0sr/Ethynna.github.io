@@ -57,5 +57,7 @@ header {
     h1 {
       font-size: 4.2rem;
     }
-    
+     header .header__right .header__image {
+    width: 200px; /* onde mudar o tamanho da foto*/
+     }
   }
