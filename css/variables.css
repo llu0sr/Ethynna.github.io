@@ -1,0 +1,14 @@
+:root {
+    --white: #0c8c91;
+    --gray: #d9d9d9;
+    --black: #000000;
+    --primary-color: #02073e;
+    --secondary-color: #000000;
+    --dark-secondary-color: #3c415c;
+    --tertiary-color: #15d4da;
+    --light-tertiary-color: #0c8c91;
+    --text-color: #343d48;
+  
+    --font-family: 'Exo 2', sans-serif;
+  }
+  /*#15d4da - #0c8c91*/
