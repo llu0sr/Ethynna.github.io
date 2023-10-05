@@ -40,13 +40,12 @@
     box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.6);
   }
   
-  .navbar .navbar__content .navbar__mobile.active,
-  .navbar .navbar__content .navbar__mobile.active .mobile__links{
+ .navbar .navbar__content .navbar__mobile{
     display: none;
   }
 
   @media only screen and (max-width: 768px) {
-    .navbar .navbar__content .navbar__links {
+   .mobile__links, .navbar__links {
       display: none;
     }
     .navbar .navbar__content .navbar__mobile {
